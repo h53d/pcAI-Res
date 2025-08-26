@@ -1,1 +1,17 @@
-wait, soom comming
+Purpose:
+pcAI is a smart image processing tool powered entirely by on-device AI. No registration, no uploads, no internet required. Just tap a few times, and you’re done — AI clarity enhancement, brightness boost, style transfer and export your results. Everything works offline, locally, and privately.
+
+Key Features
+ - Unlimited photo loading & replacement
+ - AI clarity enhancement, brightness boost, some style transfer
+ - Privacy by Design: Everything is processed locally — your images never leave your device unless you choose to share them.
+ - No Ads. No Tracking. No Cloud.
+
+Technical Specifications
+ - Requires iOS 16, macOS 12 or later.
+ - Optimized for high performance and resource efficiency.
+ - Works offline with no need for network access, ensuring complete data privacy.
+
+ - Contact
+ - Have questions or need support?
+ - Feel free to reach out to danjian42@gmail.com or on X.com: @aceway2024
